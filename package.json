@@ -1,0 +1,20 @@
+{
+  "name": "online-course-final-project",
+  "version": "1.0.0",
+  "description": "An updated version of the online course app with added assessment feature where students can take exams.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Winter24/Online-Course-Final-Project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Winter24/Online-Course-Final-Project/issues"
+  },
+  "homepage": "https://github.com/Winter24/Online-Course-Final-Project#readme"
+}
